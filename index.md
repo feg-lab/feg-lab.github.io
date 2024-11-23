@@ -11,7 +11,7 @@ We are a group of scientists at Nord University who want to understand the mecha
 
 {% capture text %}
 
-We study the molecular mechanisms of variation and evolution in life history traits. We combine the study of natural populations with common-garden experiments, functional genomics tools and population genomic approaches. Our favourite organisms are salmonids due to their amazing diversity in adaptions and life history traits.
+We study the molecular mechanisms of variation and the evolution of life history traits. We combine the study of natural populations with common-garden experiments, functional genomics tools and population genomic approaches. Our favourite organisms are salmonids due to their amazing diversity in adaptions and life history traits.
 
 {%
   include button.html
