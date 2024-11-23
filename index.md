@@ -34,7 +34,7 @@ We study the molecular mechanisms of variation and evolution in life history tra
 
 {% capture text %}
 
-See our past and current research projects.
+We mainly work on Atlantic salmon, but we have also studied diverse fishes, plants, and fungi.
 
 {%
   include button.html
