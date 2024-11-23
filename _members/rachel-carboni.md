@@ -7,4 +7,4 @@ links:
   email: 
 ---
 
-Rachel is starting a s aPhD student in the group in 2025.
+Rachel is starting as a PhD student in the group in 2025.
