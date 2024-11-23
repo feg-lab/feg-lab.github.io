@@ -19,7 +19,7 @@ Our group is part of the Genomics Division at the Faculty of Biosciences and Aqu
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="[https://www.google.com/maps](https://maps.app.goo.gl/X8kKLQNWWuP1JHTcA)"
+  link="https://maps.app.goo.gl/X8kKLQNWWuP1JHTcA"
 %}
 
 {% include section.html %}
