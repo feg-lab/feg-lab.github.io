@@ -26,7 +26,7 @@ We study the molecular mechanisms of variation and evolution in life history tra
 
 {%
   include feature.html
-  image="images/VGLL3_polygenicEffect_abstract.jpg"
+  image="images/research_logo.pdf"
   link="research"
   title="Our Research"
   text=text
