@@ -11,8 +11,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="A complex mechanism translating variation of a simple genetic
-architecture into alternative life histories" style="rich" %}
+{% include citation.html lookup="doi:10.1073/pnas.2402386121" style="rich" %}
 
 {% include section.html %}
 
