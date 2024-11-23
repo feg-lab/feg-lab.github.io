@@ -68,46 +68,22 @@
   J-P: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1073/pnas.2402386121
+  title: A complex mechanism translating variation of a simple genetic architecture
+    into alternative life histories
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Jukka-Pekka Verta
+  - Jacqueline E. Moustakas-Verho
+  - Iikki Donner
+  - Morgane Frapin
+  - Annukka Ruokolainen
+  - Paul V. Debes
+  - Jaakko Erkinaro
+  - Craig R. Primmer
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2024-11-19'
+  link: https://doi.org/g8rrwv
+  image: null
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.7554/eLife.32822
@@ -123,6 +99,223 @@
   publisher: eLife
   date: '2018-03-01'
   link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mec.17313
+  title: "Gene co\u2010expression patterns in Atlantic salmon adipose tissue provide\
+    \ a molecular link among seasonal changes, energy balance and age at maturity"
+  authors:
+  - Ehsan Pashay Ahi
+  - "Jukka\u2010Pekka Verta"
+  - Johanna Kurko
+  - Annukka Ruokolainen
+  - Pooja Singh
+  - Paul Vincent Debes
+  - Jaakko Erkinaro
+  - Craig R. Primmer
+  publisher: Molecular Ecology
+  date: '2024-03-01'
+  link: https://doi.org/g8rrww
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41437-024-00674-5
+  title: The evolutionary significance of post-transcriptional gene regulation
+  authors:
+  - Jukka-Pekka Verta
+  - Arne Jacobs
+  publisher: Heredity
+  date: '2024-02-16'
+  link: https://doi.org/g8rrwx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tree.2021.11.010
+  title: The role of alternative splicing in adaptation and evolution
+  authors:
+  - Jukka-Pekka Verta
+  - Arne Jacobs
+  publisher: Trends in Ecology &amp; Evolution
+  date: '2022-04-01'
+  link: https://doi.org/g8rrwz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11160-021-09656-w
+  title: 'Maturation in Atlantic salmon (Salmo salar, Salmonidae): a synthesis of
+    ecological, genetic, and molecular processes'
+  authors:
+  - Kenyon B. Mobley
+  - Tutku Aykanat
+  - Yann Czorlich
+  - Andrew House
+  - Johanna Kurko
+  - Antti Miettinen
+  - Jacqueline Moustakas-Verho
+  - "Andr\xE9s Salgado"
+  - Marion Sinclair-Waters
+  - Jukka-Pekka Verta
+  - Craig R. Primmer
+  publisher: Reviews in Fish Biology and Fisheries
+  date: '2021-06-07'
+  link: https://doi.org/g8rrw2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.margen.2020.100809
+  title: The Atlantic salmon whole blood transcriptome and how it relates to major
+    locus maturation genotypes and other tissues
+  authors:
+  - Samuel C. Andrew
+  - Craig R. Primmer
+  - Paul V. Debes
+  - Jaakko Erkinaro
+  - Jukka-Pekka Verta
+  publisher: Marine Genomics
+  date: '2021-04-01'
+  link: https://doi.org/gg987x
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/gbe/evab059
+  title: Genetic Drift Dominates Genome-Wide Regulatory Evolution Following an Ancient
+    Whole-Genome Duplication in Atlantic Salmon
+  authors:
+  - Jukka-Pekka Verta
+  - Henry J Barton
+  - Victoria Pritchard
+  - Craig R Primmer
+  publisher: Genome Biology and Evolution
+  date: '2021-03-22'
+  link: https://doi.org/gszwbz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pgen.1009055
+  title: Cis-regulatory differences in isoform expression associate with life history
+    strategy variation in Atlantic salmon
+  authors:
+  - Jukka-Pekka Verta
+  - Paul Vincent Debes
+  - Nikolai Piavchenko
+  - Annukka Ruokolainen
+  - Outi Ovaskainen
+  - Jacqueline Emmanuel Moustakas-Verho
+  - Seija Tillanen
+  - Noora Parre
+  - Tutku Aykanat
+  - Jaakko Erkinaro
+  - Craig Robert Primmer
+  publisher: PLOS Genetics
+  date: '2020-09-30'
+  link: https://doi.org/gkbprx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.21769/BioProtoc.3539
+  title: mRNA Extraction from Gill Tissue for RNA-sequencing
+  authors:
+  - Jukka-Pekka Verta
+  - Felicity Jones
+  publisher: BIO-PROTOCOL
+  date: '2020-01-01'
+  link: https://doi.org/g8rrw3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1534/g3.119.400357
+  title: Utilization of Tissue Ploidy Level Variation in <i>de Novo</i> Transcriptome
+    Assembly of <i>Pinus sylvestris</i>
+  authors:
+  - Dario I Ojeda
+  - Tiina M Mattila
+  - Tom Ruttink
+  - Sonja T Kujala
+  - "Katri K\xE4rkk\xE4inen"
+  - Jukka-Pekka Verta
+  - "Tanja Pyh\xE4j\xE4rvi"
+  publisher: G3 Genes|Genomes|Genetics
+  date: '2019-10-01'
+  link: https://doi.org/g8rrw4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7554/eLife.43785
+  title: Predominance of cis-regulatory changes in parallel expression divergence
+    of sticklebacks
+  authors:
+  - Jukka-Pekka Verta
+  - Felicity C Jones
+  publisher: eLife
+  date: '2019-05-15'
+  link: https://doi.org/gst7fs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/nph.13888
+  title: "Dissection of expression\u2010quantitative trait locus and allele specificity\
+    \ using a haploid/diploid plant system \u2013 insights into compensatory evolution\
+    \ of transcriptional regulation within populations"
+  authors:
+  - "Jukka\u2010Pekka Verta"
+  - Christian R. Landry
+  - John MacKay
+  publisher: New Phytologist
+  date: '2016-02-19'
+  link: https://doi.org/f8tpzd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/nmicrobiol.2015.3
+  title: Speciation driven by hybridization and chromosomal plasticity in a wild yeast
+  authors:
+  - Jean-Baptiste Leducq
+  - Lou Nielly-Thibault
+  - Guillaume Charron
+  - Chris Eberlein
+  - Jukka-Pekka Verta
+  - Pedram Samani
+  - Kayla Sylvester
+  - Chris Todd Hittinger
+  - Graham Bell
+  - Christian R. Landry
+  publisher: Nature Microbiology
+  date: '2016-01-11'
+  link: https://doi.org/gg7st3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/nph.13565
+  title: 'Conifer genomics and adaptation: at the crossroads of genetic diversity
+    and genome function'
+  authors:
+  - Julien Prunier
+  - "Jukka\u2010Pekka Verta"
+  - John J. MacKay
+  publisher: New Phytologist
+  date: '2015-07-22'
+  link: https://doi.org/f74t3w
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mec.12189
+  title: "Are long\u2010lived trees poised for evolutionary change? Single locus effects\
+    \ in the evolution of gene expression networks in spruce"
+  authors:
+  - "Jukka\u2010Pekka Verta"
+  - Christian R. Landry
+  - John J. MacKay
+  publisher: Molecular Ecology
+  date: '2013-01-07'
+  link: https://doi.org/f4wjd8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/1471-2164-13-434
+  title: Transcriptome profiling in conifers and the PiceaGenExpress database show
+    patterns of diversification within gene families and interspecific conservation
+    in vascular gene expression
+  authors:
+  - Elie Raherison
+  - Philippe Rigault
+  - "S\xE9bastien Caron"
+  - Pier-Luc Poulin
+  - Brian Boyle
+  - Jukka-Pekka Verta
+  - "Isabelle Gigu\xE8re"
+  - Claude Bomal
+  - "J\xF6rg Bohlmann"
+  - John MacKay
+  publisher: BMC Genomics
+  date: '2012-08-29'
+  link: https://doi.org/gb3d3h
   plugin: sources.py
   file: sources.yaml
