@@ -1,9 +1,9 @@
 ---
 ---
 
-# feg-lab's Website
+# Molecular basis of adaptive traits and evolutionary change.
 
-An engaging 1-3 sentence description of your lab.
+We are a group of scientists at Nord University who want to understand the mechanisms that create and maintain phenotypic diversity from the molecular to the species level. We study natural populations using functional genomics tools and population genomic approaches, as well as common-garden experiments. Our favourite organisms are salmonids due to their amazing diversity in adaptions and life history traits.
 
 {% include section.html %}
 
