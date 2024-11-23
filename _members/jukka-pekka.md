@@ -8,4 +8,4 @@ aliases:
 links:
   email: jukka-pekka.verta@nord.no
 ---
-I'm an Assoc. Professor at Nord from 2024 onwards. Previously I have worked as  a postdoc with Craig Primmer at the University of Helsinki, as a MSCA postdoc with Dylan Fraser and Alisa Piekny at Concordia University (Montreal) and Frederic Guillaume (U Helsinki), as well as Felicity Jones at the Max Planck Institute (Tuebingen). I have a PhD in forest genomics from Laval University (Quebec City) with John MacKay and Christian Landry. 
+I started as an Assoc. Professor at Nord in 2024. I postdoc'd previously with Craig Primmer at the University of Helsinki (2018-2023), as a MSCA postdoc with Dylan Fraser and Alisa Piekny at Concordia University (Montreal, 2023-2024) and Frederic Guillaume (U Helsinki), as well as with Felicity Jones at the Max Planck Institute (Tuebingen, 2014-2018). I have a PhD in forest genomics from Laval University (Quebec City, 2008-2014) with John MacKay and Christian Landry. 
