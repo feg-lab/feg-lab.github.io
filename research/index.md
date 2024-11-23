@@ -11,7 +11,8 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="A complex mechanism translating variation of a simple genetic
+architecture into alternative life histories" style="rich" %}
 
 {% include section.html %}
 
