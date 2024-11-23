@@ -3,7 +3,7 @@
 
 # Molecular basis of adaptive traits and evolutionary change
 
-We are a group of scientists at Nord University who want to understand the mechanisms that create and maintain phenotypic diversity from the molecular to the species level. We combine the study of natural populations with common-garden experiments, functional genomics tools and population genomic approaches. Our favourite organisms are salmonids due to their amazing diversity in adaptions and life history traits.
+We are a group of scientists at Nord University who want to understand the mechanisms that create and maintain phenotypic diversity from the molecular to the species level.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ We are a group of scientists at Nord University who want to understand the mecha
 
 {% capture text %}
 
-Our research
+We study the molecular mechanisms of variation and evolution in life history traits. We combine the study of natural populations with common-garden experiments, functional genomics tools and population genomic approaches. Our favourite organisms are salmonids due to their amazing diversity in adaptions and life history traits.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Our research
 
 {% capture text %}
 
-Research projects.
+See our past and current research projects.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Research projects.
 
 {% capture text %}
 
-Teams
+We are an international and inclusive small group of people excited to live above the Arctic Circle.
 
 {%
   include button.html
