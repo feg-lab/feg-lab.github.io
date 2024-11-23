@@ -1,6 +1,6 @@
 ---
 name: Jukka-Pekka (J-P) Verta 
-image: images/IMG_7450.jpg
+image: images/IMG_7450.jpeg
 role: PI
 description: Associate Professor
 aliases:
