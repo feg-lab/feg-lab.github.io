@@ -17,6 +17,7 @@ We are an interdisciplinary and international group of undergrads, graduate stud
   include section.html
   dark=true
   size=full
+  title="Prospective students and postdocs"
 %}
 
 {% include list.html data="members" component="portrait" filter="role == 'prospective'" %}
