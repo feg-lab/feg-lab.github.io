@@ -1,6 +1,6 @@
 ---
 name: PhD students 
-image: images/IMG_5897.jpg
+image: images/IMG_8597.jpg
 role: prospective
 description: You?
 links:
