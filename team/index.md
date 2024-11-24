@@ -19,4 +19,4 @@ We are an interdisciplinary and international group of undergrads, graduate stud
   size=full
 %}
 
-{% include list.html data="members" component="card" filter="role == 'prospective'" %}
+{% include list.html data="members" component="portrait" filter="role == 'prospective'" %}
