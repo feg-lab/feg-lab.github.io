@@ -86,22 +86,6 @@
   image: null
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: null
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1111/mec.17313
   title: "Gene co\u2010expression patterns in Atlantic salmon adipose tissue provide\
     \ a molecular link among seasonal changes, energy balance and age at maturity"
