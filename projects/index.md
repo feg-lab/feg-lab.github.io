@@ -15,10 +15,10 @@ We study natural populations using a combination of field-work, genomics, and co
 
 ## Featured
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% include list.html component="feature" data="projects" filter="group == 'featured'" %}
 
 {% include section.html %}
 
 ## More
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="feature" data="projects" filter="!group" style="small" %}
