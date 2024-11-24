@@ -28,7 +28,7 @@ Our group is part of the Genomics Division at the Faculty of Biosciences and Aqu
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/IMG_7310.jpg"
 %}
 
 {% endcapture %}
@@ -37,7 +37,7 @@ Our group is part of the Genomics Division at the Faculty of Biosciences and Aqu
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/4667.jpg"
 %}
 
 {% endcapture %}
