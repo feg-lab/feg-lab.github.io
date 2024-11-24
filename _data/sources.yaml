@@ -1,20 +1,32 @@
 - id: doi:10.1073/pnas.2402386121
   image: images/verta-et-al-2024.jpg
-
 - id: doi:10.1111/mec.17313
-  image: 
-
+  image: images/MEC-Ahi-2024.jpg
 - id: doi:10.1038/s41437-024-00674-5
+  image: images/heredity-jacobs-verta.jpg
 - id: doi:10.1016/j.tree.2021.11.010
+  image: images/TREE-Verta-Jacobs.jpg
 - id: doi:10.1007/s11160-021-09656-w
+  image: images/Rev-Mobley.jpg
 - id: doi:10.1016/j.margen.2020.100809
+  image: images/MarGen-Andrew.jpg
 - id: doi:10.1093/gbe/evab059
+  image: images/GBE-Verta.jpg
 - id: doi:10.1371/journal.pgen.1009055
+  image: images/PLOSgen-Verta.jpg
 - id: doi:10.21769/BioProtoc.3539
+  image: images/BioProtoc-Verta.jpg
 - id: doi:10.1534/g3.119.400357
+  image: images/G3-Ojeda.jpg
 - id: doi:10.7554/eLife.43785
+  image: images/eLife-Verta.jpg
 - id: doi:10.1111/nph.13888
+  image: images/NewPhytol-Prunier.jpg
 - id: doi:10.1038/nmicrobiol.2015.3
+  image: images/NatMicro-Leducq.jpg
 - id: doi:10.1111/nph.13565
+  image: images/NewPhytol-Verta.jpg
 - id: doi:10.1111/mec.12189
+  image: images/MEC-Verta.jpg
 - id: doi:10.1186/1471-2164-13-434
+  image: images/BMC-Raherison.jpg
