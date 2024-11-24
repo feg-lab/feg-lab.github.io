@@ -1,5 +1,5 @@
 ---
-name: Postdoc
+name: Postdocs
 image: images/IMG_5395.jpg
 role: prospective
 description: You?
