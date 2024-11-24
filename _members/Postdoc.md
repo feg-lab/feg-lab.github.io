@@ -1,6 +1,6 @@
 ---
 name: Postdoc
-image: images/photo.jpg
+image: images/IMG_5395.jpg
 role: prospective
 description: You?
 email: jukka-pekka.verta@nord.no
