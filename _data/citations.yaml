@@ -101,7 +101,7 @@
   publisher: Molecular Ecology
   date: '2024-03-01'
   link: https://doi.org/g8rrww
-  image: null
+  image: images/MEC-Ahi-2024.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41437-024-00674-5
@@ -112,6 +112,7 @@
   publisher: Heredity
   date: '2024-02-16'
   link: https://doi.org/g8rrwx
+  image: images/heredity-jacobs-verta.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.tree.2021.11.010
@@ -122,6 +123,7 @@
   publisher: Trends in Ecology &amp; Evolution
   date: '2022-04-01'
   link: https://doi.org/g8rrwz
+  image: images/TREE-Verta-Jacobs.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s11160-021-09656-w
@@ -142,6 +144,7 @@
   publisher: Reviews in Fish Biology and Fisheries
   date: '2021-06-07'
   link: https://doi.org/g8rrw2
+  image: images/Rev-Mobley.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.margen.2020.100809
@@ -156,6 +159,7 @@
   publisher: Marine Genomics
   date: '2021-04-01'
   link: https://doi.org/gg987x
+  image: images/MarGen-Andrew.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/gbe/evab059
@@ -169,6 +173,7 @@
   publisher: Genome Biology and Evolution
   date: '2021-03-22'
   link: https://doi.org/gszwbz
+  image: images/GBE-Verta.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1371/journal.pgen.1009055
@@ -189,6 +194,7 @@
   publisher: PLOS Genetics
   date: '2020-09-30'
   link: https://doi.org/gkbprx
+  image: images/PLOSgen-Verta.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.21769/BioProtoc.3539
@@ -199,6 +205,7 @@
   publisher: BIO-PROTOCOL
   date: '2020-01-01'
   link: https://doi.org/g8rrw3
+  image: images/BioProtoc-Verta.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1534/g3.119.400357
@@ -215,6 +222,7 @@
   publisher: G3 Genes|Genomes|Genetics
   date: '2019-10-01'
   link: https://doi.org/g8rrw4
+  image: images/G3-Ojeda.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.7554/eLife.43785
@@ -226,6 +234,7 @@
   publisher: eLife
   date: '2019-05-15'
   link: https://doi.org/gst7fs
+  image: images/eLife-Verta.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/nph.13888
@@ -239,6 +248,7 @@
   publisher: New Phytologist
   date: '2016-02-19'
   link: https://doi.org/f8tpzd
+  image: images/NewPhytol-Prunier.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/nmicrobiol.2015.3
@@ -257,6 +267,7 @@
   publisher: Nature Microbiology
   date: '2016-01-11'
   link: https://doi.org/gg7st3
+  image: images/NatMicro-Leducq.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/nph.13565
@@ -269,6 +280,7 @@
   publisher: New Phytologist
   date: '2015-07-22'
   link: https://doi.org/f74t3w
+  image: images/NewPhytol-Verta.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mec.12189
@@ -281,6 +293,7 @@
   publisher: Molecular Ecology
   date: '2013-01-07'
   link: https://doi.org/f4wjd8
+  image: images/MEC-Verta.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/1471-2164-13-434
@@ -301,5 +314,6 @@
   publisher: BMC Genomics
   date: '2012-08-29'
   link: https://doi.org/gb3d3h
+  image: images/BMC-Raherison.jpg
   plugin: sources.py
   file: sources.yaml
