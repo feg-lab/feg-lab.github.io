@@ -49,7 +49,7 @@ We mainly work on Atlantic salmon, but we have also studied diverse fishes, plan
 
 {%
   include feature.html
-  image="images/IMG_5313.jpg"
+  image="images/summary.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -74,7 +74,7 @@ We are an international and inclusive small group of people excited to live abov
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/IMG_5313.jpg"
   link="team"
   title="Our Team"
   text=text
