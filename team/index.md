@@ -7,9 +7,17 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Our group consists of talented undergrads, graduate students and staff. If you are interested to join us please get in touch!
+We are an interdisciplinary and international group of undergrads, graduate students and staff.
 
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+
+{%
+  include section.html
+  dark=true
+  size=full
+%}
+
+{% include list.html data="members" component="card" filter="role != 'prospective'" %}
