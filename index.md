@@ -49,7 +49,7 @@ We mainly work on Atlantic salmon, but we have also studied diverse fishes, plan
 
 {%
   include feature.html
-  image="images/summary.jpg"
+  image="images/verta-et-al-2024.jpg"
   link="projects"
   title="Our Projects"
   flip=true
