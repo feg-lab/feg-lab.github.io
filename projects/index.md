@@ -9,8 +9,6 @@ nav:
 
 We study natural populations using a combination of field-work, genomics, and common-garden experiments. 
 
-{% include tags.html tags="publication, resource, website" %}
-
 {% include search-info.html %}
 
 {% include section.html %}
