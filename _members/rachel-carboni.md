@@ -1,6 +1,6 @@
 ---
 name: Rachel Carboni
-image: images/photo.jpg
+image: images/IMG_5629.jpg
 description: PhD student
 role: grad
 links:
