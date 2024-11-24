@@ -21,4 +21,13 @@ We study natural populations using a combination of field-work, genomics, and co
 
 ## More
 
-{% include list.html component="feature" data="projects" filter="!group" style="small" %}
+{%
+  include feature.html
+  image="images/group-photo.jpg"
+  title="eQTL"
+  text="Our team is made up of people all around the globe"
+  flip=true
+%}
+
+
+{% include list.html component="card" data="projects" filter="!group" style="small" %}
