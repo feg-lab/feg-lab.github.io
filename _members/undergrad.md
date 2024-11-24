@@ -1,10 +1,8 @@
 ---
 name: BSc students 
 image: images/photo.jpg
-role: undergrand
+role: prospective
 description: You?
-aliases:
-  - undergrad
 links:
   email: jukka-pekka.verta@nord.no
 ---
