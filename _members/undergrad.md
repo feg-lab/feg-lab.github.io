@@ -1,6 +1,6 @@
 ---
 name: BSc students 
-image: images/photo.jpg
+image: images/IMG_5331.jpg
 role: prospective
 description: You?
 links:
