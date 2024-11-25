@@ -34,7 +34,7 @@ We study the molecular mechanisms of variation in life history traits. We combin
 
 {% capture text %}
 
-We mainly work on Atlantic salmon, but we have also studied diverse fishes, plants, and fungi.
+We mainly work on Atlantic salmon, but we've also studied diverse fishes, plants, and fungi.
 
 {%
   include button.html
