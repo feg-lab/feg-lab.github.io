@@ -27,11 +27,11 @@
 - id: doi:10.7554/elife.43785
   image: images/eLife-Verta.jpg
 - id: doi:10.1111/nph.13888
-  image: images/NewPhytol-Prunier.jpg
+  image: images/NewPhytol-Verta.jpg
 - id: doi:10.1038/nmicrobiol.2015.3
   image: images/NatMicro-Leducq.jpg
 - id: doi:10.1111/nph.13565
-  image: images/NewPhytol-Verta.jpg
+  image: images/NewPhytol-Prunier.jpg
 - id: doi:10.1111/mec.12189
   image: images/MEC-Verta.jpg
 - id: doi:10.1186/1471-2164-13-434
