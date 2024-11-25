@@ -1,3 +1,9 @@
+- id: doi:10.1101/2024.09.15.6
+  image: images/Asheim-biorxiv.jpg
+- id: doi:10.1101/2024.10.21.619349
+  image: images/Ahi-biorxiv-a.jpg
+- id: doi:10.1101/2024.03.18.585557
+  image: images/Ahi-biorxiv-b.jpg
 - id: doi:10.1073/pnas.2402386121
   image: images/verta-et-al-2024.jpg
 - id: doi:10.1111/mec.17313
