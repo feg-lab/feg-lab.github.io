@@ -8,6 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
 Browse below for what's happening in our corner of the world.
+{:.center}
 
 {% include section.html %}
 
