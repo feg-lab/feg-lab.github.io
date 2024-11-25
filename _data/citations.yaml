@@ -292,7 +292,7 @@
   publisher: New Phytologist
   date: '2016-02-19'
   link: https://doi.org/f8tpzd
-  image: images/NewPhytol-Prunier.jpg
+  image: images/NewPhytol-Verta.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/nmicrobiol.2015.3
@@ -324,7 +324,7 @@
   publisher: New Phytologist
   date: '2015-07-22'
   link: https://doi.org/f74t3w
-  image: images/NewPhytol-Verta.jpg
+  image: images/NewPhytol-Prunier.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mec.12189
