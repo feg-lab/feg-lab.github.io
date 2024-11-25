@@ -42,4 +42,13 @@ Our group is part of the Genomics Division at the Faculty of Biosciences and Aqu
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+{% capture col3 %}
+
+{%
+  include figure.html
+  image="images/IMG_7793.jpg"
+%}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
