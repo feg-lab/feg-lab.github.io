@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-We study natural populations using a combination of field-work, genomics, and common-garden experiments. {:.center}
+{:.center}We study natural populations using a combination of field-work, genomics, and common-garden experiments. 
 
 {% include search-info.html %}
 
