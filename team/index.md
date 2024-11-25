@@ -20,6 +20,7 @@ We are an interdisciplinary and international group of undergrads, graduate stud
   title="Prospective students and postdocs"
 %}
 
-# {% include icon.html icon="fa-solid fa-users" %}Prospective students and postdocs{:.center}
+# {% include icon.html icon="fa-solid fa-users" %}Prospective students and postdocs
+{:.center}
 
 {% include list.html data="members" component="portrait" filter="role == 'prospective'" %}
