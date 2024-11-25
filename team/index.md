@@ -8,6 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
 We are an interdisciplinary and international group of undergrads, graduate students and staff.
+{:.center}
 
 {% include section.html %}
 
