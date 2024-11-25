@@ -8,7 +8,6 @@ nav:
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 Our group is part of the Genomics Division at the Faculty of Biosciences and Aquaculture at Nord University. We are located in stunning natural settings above the Arctic Circle in Bodø, Norway.
-{:.center}
 
 {%
   include button.html
