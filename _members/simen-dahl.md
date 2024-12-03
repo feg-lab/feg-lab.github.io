@@ -1,7 +1,7 @@
 ---
 name: Simen Ivan Dahl
 image: images/IMG_5322.jpg
-role: MSc student
+role: MSc
 group: undergrad
 description: MSc student
 ---
