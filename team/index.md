@@ -12,7 +12,8 @@ We are an interdisciplinary and international group of undergrads, graduate stud
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'PI' | role == 'PhD student' | role == 'MSc student' | role == 'BSc student'" %}
+{% include list.html data="members" component="portrait" filter="role == 'PI'" %}
+{% include list.html data="members" component="portrait" filter="role == 'PhD student'" %}
 
 {%
   include section.html
