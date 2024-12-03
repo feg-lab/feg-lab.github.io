@@ -1,8 +1,8 @@
 ---
 name: Rachel Carboni
 image: images/carboni_picture.jpg
-description: PhD student
-role: grad
+role: PhD
+description: graduate student
 links:
   email: rachelcarboni@gmail.com
 ---
