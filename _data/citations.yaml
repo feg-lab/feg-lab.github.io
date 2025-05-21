@@ -72,9 +72,9 @@
   image: images/Asheim-biorxiv.jpg
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2024.10.21.619349
-  title: Hippo-<i>vgll3</i>signaling may contribute to sex differences in Atlantic
-    salmon maturation age via contrasting adipose dynamics
+- id: doi:10.1186/s13293-025-00705-8
+  title: Hippo-vgll3 signaling may contribute to sex differences in Atlantic salmon
+    maturation age via contrasting adipose dynamics
   authors:
   - Ehsan Pashay Ahi
   - Jukka-Pekka Verta
@@ -82,9 +82,9 @@
   - Annukka Ruokolainen
   - Paul Vincent Debes
   - Craig R. Primmer
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-10-24'
-  link: https://doi.org/g8rxm6
+  publisher: Biology of Sex Differences
+  date: '2025-04-02'
+  link: https://doi.org/g9kvnv
   image: images/Ahi-biorxiv-a.jpg
   plugin: sources.py
   file: sources.yaml
