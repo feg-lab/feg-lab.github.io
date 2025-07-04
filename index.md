@@ -75,7 +75,7 @@ We are an international and inclusive small group of people excited to live abov
 {%
   include feature.html
   image="images/IMG_5313.jpg"
-  title="Opportunities"
+  title="Our Team"
   text=text
 %}
 
@@ -89,5 +89,6 @@ We have an open PhD position (3 years, fully funded). Please contact us for more
   include feature.html
   image="images/Add_PhD2026_V3.jpg"
   title="Opportunities"
+  flip=true
   text=text
 %}
