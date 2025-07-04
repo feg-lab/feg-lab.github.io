@@ -51,6 +51,24 @@
   J-P: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1186/s12862-025-02398-4
+  title: Brain-associated alterations of Hippo pathway transcription in early maturing
+    Atlantic salmon
+  authors:
+  - Ehsan Pashay Ahi
+  - Jukka-Pekka Verta
+  - Johanna Kurko
+  - Annukka Ruokolainen
+  - Pooja Singh
+  - Paul Vincent Debes
+  - Jaakko Erkinaro
+  - Craig R. Primmer
+  publisher: BMC Ecology and Evolution
+  date: '2025-05-26'
+  link: https://doi.org/g9sb2k
+  image: images/Ahi_BMCEcoEvo.pdf
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2024.09.15.613130
   title: Sex-, development-, and nutrition-dependent expression of a major age-at-maturity
     gene in Atlantic salmon
