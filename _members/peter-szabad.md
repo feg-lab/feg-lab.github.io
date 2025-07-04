@@ -1,8 +1,8 @@
 ---
 name: Péter Szabad
 image: images/PfP.jpg
-role: BSc
-group: alumni
+role: alumni
+group: undergrad
 description: BSc student
 ---
 
