@@ -28,3 +28,8 @@ We are an interdisciplinary and international group of undergrads, graduate stud
 {:.center}
 
 {% include list.html data="members" component="portrait" filter="role == 'prospective'" %}
+
+## {% include icon.html icon="fa-solid fa-users" %}Alumni
+{:.center}
+
+{% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
