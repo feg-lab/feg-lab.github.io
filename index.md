@@ -3,7 +3,7 @@
 
 # Molecular basis of adaptive traits and evolutionary change
 
-We are scientists at Nord University studying phenotypic diversity from molecular to species levels. We aim to discover the genotype-to-phenotype map for adaptive traits and mechanisms that influence future adaptive evolution. 
+We are scientists at Nord University studying phenotypic diversity from the molecular to the species levels. We aim to discover the genotype-to-phenotype map for complex traits such as life histories and understand the mechanisms that influence their evolution. 
 
 {% include section.html %}
 
