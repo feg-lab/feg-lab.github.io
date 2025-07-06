@@ -3,7 +3,7 @@
 
 # Molecular basis of adaptive traits and evolutionary change
 
-We are a group of scientists at Nord University who want to understand *how* and *why* is phenotypic diversity created and maintained from the molecular to the species level. We work towards discovering the genotype-to-phenotype map for adaptive traits and the mechanisms that facilitate or constrain future adaptive evolution.  
+We’re scientists at Nord University studying phenotypic diversity from molecular to species levels. We aim to discover the genotype-to-phenotype map for adaptive traits and mechanisms that influence future adaptive evolution. 
 
 {% include section.html %}
 
