@@ -106,24 +106,6 @@
   image: images/Ahi-biorxiv-a.jpg
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2024.03.18.585557
-  title: A salmon fish model reveals genetic signals in brain associated with early
-    maturation
-  authors:
-  - Ehsan Pashay Ahi
-  - Jukka-Pekka Verta
-  - Johanna Kurko
-  - Annukka Ruokolainen
-  - Pooja Singh
-  - Paul Vincent Debes
-  - Jaakko Erkinaro
-  - Craig R. Primmer
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-03-19'
-  link: https://doi.org/g8rxm7
-  image: images/Ahi-biorxiv-b.jpg
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1073/pnas.2402386121
   title: A complex mechanism translating variation of a simple genetic architecture
     into alternative life histories
