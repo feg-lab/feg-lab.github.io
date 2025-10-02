@@ -51,6 +51,53 @@
   J-P: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1186/s12864-025-11954-7
+  title: A comprehensive analysis of Atlantic salmon gonad and pituitary transcriptomes
+    identifies novel players in sexual maturation
+  authors:
+  - Xin-Di Huang
+  - Morgane Frapin
+  - Ehsan Pashay Ahi
+  - Craig Robert Primmer
+  - Jukka-Pekka Verta
+  publisher: BMC Genomics
+  date: '2025-09-26'
+  link: https://doi.org/g95m2g
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/g3journal/jkaf196
+  title: Testicular heterochrony in <i>vgll3</i>-mediated maturation age in Atlantic
+    salmon
+  authors:
+  - Ehsan Pashay Ahi
+  - Jukka-Pekka Verta
+  - Johanna Kurko
+  - Annukka Ruokolainen
+  - Paul Vincent Debes
+  - Craig R Primmer
+  publisher: 'G3: Genes, Genomes, Genetics'
+  date: '2025-08-21'
+  link: https://doi.org/g95m2h
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mec.17313
+  title: "Gene co\u2010expression patterns in Atlantic salmon adipose tissue provide\
+    \ a molecular link among seasonal changes, energy balance and age at maturity"
+  authors:
+  - Ehsan Pashay Ahi
+  - "Jukka\u2010Pekka Verta"
+  - Johanna Kurko
+  - Annukka Ruokolainen
+  - Pooja Singh
+  - Paul Vincent Debes
+  - Jaakko Erkinaro
+  - Craig R. Primmer
+  publisher: Molecular Ecology
+  date: '2024-03-01'
+  link: https://doi.org/g8rrww
+  plugin: sources.py
+  file: sources.yaml
+  image: images/MEC-Ahi-2024.jpg
 - id: doi:10.1186/s12862-025-02398-4
   title: Brain-associated alterations of Hippo pathway transcription in early maturing
     Atlantic salmon
@@ -122,24 +169,6 @@
   date: '2024-11-19'
   link: https://doi.org/g8rrwv
   image: images/verta-et-al-2024.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1111/mec.17313
-  title: "Gene co\u2010expression patterns in Atlantic salmon adipose tissue provide\
-    \ a molecular link among seasonal changes, energy balance and age at maturity"
-  authors:
-  - Ehsan Pashay Ahi
-  - "Jukka\u2010Pekka Verta"
-  - Johanna Kurko
-  - Annukka Ruokolainen
-  - Pooja Singh
-  - Paul Vincent Debes
-  - Jaakko Erkinaro
-  - Craig R. Primmer
-  publisher: Molecular Ecology
-  date: '2024-03-01'
-  link: https://doi.org/g8rrww
-  image: images/MEC-Ahi-2024.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41437-024-00674-5
