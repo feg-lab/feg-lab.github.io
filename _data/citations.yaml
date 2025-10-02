@@ -79,6 +79,7 @@
   publisher: 'G3: Genes, Genomes, Genetics'
   date: '2025-08-21'
   link: https://doi.org/g95m2h
+  image: images/jkaf196_ga.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/mec.17313
