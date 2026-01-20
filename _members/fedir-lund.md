@@ -1,6 +1,6 @@
 ---
 name: Fedir Lund
-image: images/fedir_profile.JPG
+image: images/fedir_profile.jpg
 role: MSc
 group: undergrad
 description: MSc student
